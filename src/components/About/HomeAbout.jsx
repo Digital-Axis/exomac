@@ -25,8 +25,7 @@ const HomeAbout = () => {
 
                 <SectionTitle
                     title="Welcome to Perfect Signage Marketing Ltd. "
-                    subTitle="At Perfect Signage Marketing Ltd, we specialize in creating powerful visual solutions to help your brand stand out. Whether it’s signage for your business
-                    vehicle branding, or marketing materials, we offer customized services to elevate your brand's presence."
+                    subTitle="Your Trusted Partner in Quality Signage and Marketing Solutions"
                 />
 
                 <div className="row">
