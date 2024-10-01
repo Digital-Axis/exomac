@@ -55,7 +55,7 @@ const HomeAbout = () => {
                         <div className="about-content-area">
                             <SectionTitleTwo 
                                 subTitle="Custom Signage"
-                                title="Your Trusted Partner in Quality Signage and Marketing Solutions"
+                                title="Transforming Your Brand with Creative Signage & Marketing Solutions"
                             />
 
                             <p>We’re boldly individual, always original and refreshingly easy-going. Our vision, passion and ideas are matched
