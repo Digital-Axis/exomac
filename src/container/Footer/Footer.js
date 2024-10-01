@@ -21,8 +21,9 @@ const Footer = () => {
                                 <div className="content">
 
 
-                                    <p><Link to={process.env.PUBLIC_URL + "/"}>(+1) 212-946-2701</Link></p>
-                                    <p><Link to={process.env.PUBLIC_URL + "/"}>hello@hasagency.com</Link> </p>
+                                    <p><Link to={process.env.PUBLIC_URL + "/"}>(+260) 970-431-012</Link></p>
+                                    <p><Link to={process.env.PUBLIC_URL + "/"}>(+260) 211-410-029</Link></p>
+                                    <p><Link to={process.env.PUBLIC_URL + "/"}>info@perfectsignage.com</Link> </p>
                                 </div>
                                 <div className="footer-social-inline">
                                     <a href="#"><i className="fab fa-twitter-square"></i></a>
@@ -46,7 +47,7 @@ const Footer = () => {
 
                 <div className="row">
                     <div className="col">
-                        <p className="copyright">&copy; {new Date().getFullYear()} <strong>Perfect Signage Marketing Limited</strong>Developed by Digital Axis Solutions by <a href="#"><strong>Digital Axis Solution Limited</strong></a>.</p>
+                        <p className="copyright">&copy; {new Date().getFullYear()} <strong>Perfect Signage Marketing Limited</strong>Developed by <a href="#"><strong>Digital Axis Solution Limited</strong></a>.</p>
                     </div>
                 </div>
 
