@@ -24,7 +24,7 @@ const HomeAbout = () => {
             <div className="container">
 
                 <SectionTitle
-                    title="We are a full-service creative agency"
+                    title="We are a full-service creative agenc"
                     subTitle="Our team of designers, developers and creatives are perfectionists
                     who love what they do and love"
                 />
