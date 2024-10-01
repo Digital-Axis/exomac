@@ -54,7 +54,7 @@ const HomeAbout = () => {
                     <div className="col-xl-5 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-content-area">
                             <SectionTitleTwo 
-                                subTitle="Discover Our Services | Get a Free Quote"
+                                subTitle="Discover Our Services Get a Free Quote"
                                 title="Transforming Your Brand with Creative Signage & Marketing Solutions"
                             />
 
