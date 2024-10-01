@@ -25,7 +25,7 @@ const SwiperSlider = forwardRef(
         const prevClass = `prev-${navClass || "swiper-nav"}`;
         const nextClass = `next-${navClass || "swiper-nav"}`;
         const sliderOptions = {
-            slidesPerView: 4,
+            slidesPerView: 3,
             spaceBetween: 30,
             loop: false,
             autoplay: {
