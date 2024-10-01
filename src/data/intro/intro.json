@@ -17,4 +17,10 @@
         "desc": "Create high-quality, large-format prints for banners, posters, and more, perfect for events, trade shows, or advertising.",
         "backgroundImage": "/images/hero-image/hero-3.jpg"
     }
+     {
+        "id": "4",
+        "title": "Construction",
+        "desc": "Create high-quality, large-format prints for banners, posters, and more, perfect for events, trade shows, or advertising.",
+        "backgroundImage": "/images/hero-image/hero-4.jpg"
+    }
 ]
