@@ -24,7 +24,7 @@ const HomeAbout = () => {
             <div className="container">
 
                 <SectionTitle
-                    title="Welcome to Perfect Signage Marketing Ltd. Your Trusted Partner in Quality Signage and Marketing Solutions"
+                    title="Welcome to Perfect Signage Marketing Ltd. "
                     subTitle="At Perfect Signage Marketing Ltd, we specialize in creating powerful visual solutions to help your brand stand out. Whether it’s signage for your business
                     vehicle branding, or marketing materials, we offer customized services to elevate your brand's presence."
                 />
@@ -55,8 +55,8 @@ const HomeAbout = () => {
                     <div className="col-xl-5 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-content-area">
                             <SectionTitleTwo 
-                                subTitle="Every day brings new challenges"
-                                title="Creative agency focused on vision, product and people"
+                                subTitle="Custom Signage"
+                                title="Your Trusted Partner in Quality Signage and Marketing Solutions"
                             />
 
                             <p>We’re boldly individual, always original and refreshingly easy-going. Our vision, passion and ideas are matched
