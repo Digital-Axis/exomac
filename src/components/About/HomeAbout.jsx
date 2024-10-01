@@ -24,9 +24,8 @@ const HomeAbout = () => {
             <div className="container">
 
                 <SectionTitle
-                    title="Welcome to Perfect Signage Marketing Ltd. "
-                    subTitle="Your Trusted Partner in Quality Signage and Marketing Solutions
-                   "
+                    title="Welcome to Perfect Signage Marketing Ltd."
+                    subTitle="Your Trusted Partner in Quality Signage and Marketing Solutions"
                 />
 
                 <div className="row">
