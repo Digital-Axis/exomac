@@ -1,20 +1,20 @@
 [
     {
         "id": "1",
-        "title": "Designing awesome brands & experiences",
-        "desc": "We are an agency located in New York. We think strategy, craft design, develop digital and create motion. To forward your brand and business.",
+        "title": "Custom Signage Solutions",
+        "desc": "From storefront signs to interior displays, our custom signage services help your brand make an unforgettable impact.",
         "backgroundImage": "/images/hero-image/hero-2.jpg"
     },
     {
         "id": "2",
-        "title": "Designing awesome brands & experiences",
-        "desc": "We are an agency located in New York. We think strategy, craft design, develop digital and create motion. To forward your brand and business.",
+        "title": "Vehicle Branding",
+        "desc": "Transform your vehicles into mobile advertising platforms. We create attractive vehicle wraps and decals that capture attention on the go",
         "backgroundImage": "/images/hero-image/hero-1.jpg"
     },
     {
         "id": "3",
-        "title": "Designing awesome brands & experiences",
-        "desc": "We are an agency located in New York. We think strategy, craft design, develop digital and create motion. To forward your brand and business.",
+        "title": "Banners & Large Format Printing",
+        "desc": "Create high-quality, large-format prints for banners, posters, and more, perfect for events, trade shows, or advertising.",
         "backgroundImage": "/images/hero-image/hero-3.jpg"
     }
 ]
