@@ -58,8 +58,7 @@ const HomeAbout = () => {
                                 title="Transforming Your Brand with Creative Signage & Marketing Solutions"
                             />
 
-                            <p>At Perfect Signage Marketing Ltd, we specialize in creating powerful visual solutions to help your brand stand out. Whether it’s signage for your business,
-                                vehicle branding, or marketing materials, we offer customized services to elevate your brand's presence.</p>
+                            <p>At Perfect Signage Marketing Ltd, we specialize in creating powerful visual solutions to help your brand stand out. Whether it’s signage for your business, vehicle branding, or marketing materials, we offer customized services to elevate your brand's presence.</p>
 
                             <Link className="btn btn-primary btn-hover-secondary mt-xl-8 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/about"}>About Us</Link>
                         </div>
