@@ -24,8 +24,9 @@ const HomeAbout = () => {
             <div className="container">
 
                 <SectionTitle
-                    title="Welcome to Perfect Signage Marketing Ltd."
-                    subTitle="Your Trusted Partner in Quality Signage and Marketing Solutions"
+                    title="We are a full-service creative agency"
+                    subTitle="Our team of designers, developers and creatives are perfectionists
+                    who love what they do and love"
                 />
 
                 <div className="row">
@@ -54,11 +55,12 @@ const HomeAbout = () => {
                     <div className="col-xl-5 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-content-area">
                             <SectionTitleTwo 
-                                subTitle="Discover Our Services Get a Free Quote"
-                                title="Transforming Your Brand with Creative Signage & Marketing Solutions"
+                                subTitle="Every day brings new challenges"
+                                title="Creative agency focused on vision, product and people"
                             />
 
-                            <p>"At Perfect Signage Marketing Ltd, we specialize in creating powerful visual solutions to help your brand stand out. Whether it’s signage for your business, vehicle branding, or marketing materials, we offer customized services to elevate your brand's presence."</p>
+                            <p>We’re boldly individual, always original and refreshingly easy-going. Our vision, passion and ideas are matched
+                                with focus, expertise and flair.</p>
 
                             <Link className="btn btn-primary btn-hover-secondary mt-xl-8 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/about"}>About Us</Link>
                         </div>
