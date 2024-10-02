@@ -1,8 +1,8 @@
 import React from 'react';
 import {Link} from "react-router-dom";
 import Logo from '../../components/logo/Logo';
-import FooterData from '../../data/Footer/footerItem.json';
-import FooterLinkItem from '../../components/Footer/FooterLinkItem.jsx';
+//import FooterData from '../../data/Footer/footerItem.json';
+//import FooterLinkItem from '../../components/Footer/FooterLinkItem.jsx';
 
 const Footer = () => {
     return (
@@ -34,13 +34,13 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    {FooterData && FooterData.map((single, key) => {
+                   /** {FooterData && FooterData.map((single, key) => {
                             return(
                                 <div key={key} className="col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6 mb-6">
                                     <FooterLinkItem data={single} key={key} />
                                 </div>
                             ); 
-                    })}
+                    })} */
 
 
                 </div>
