@@ -17,7 +17,7 @@ import ScrollToTop from '../components/ScrollToTop.jsx';
 const HomeOne = () => {
     return (
         <React.Fragment>
-            <SEO title="Exomac – Business React JS Template" />
+            <SEO title="Perfect Signage Marketing Ltd." />
             <Header />
             <IntroSlider />
             <HomeAbout />
