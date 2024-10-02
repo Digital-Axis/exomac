@@ -2,7 +2,7 @@
     {
         "id": "1",
         "icon": "images/svg/linea/linea-basic-target.svg",
-        "title": "Branding",
+        "title": "3D Custom Signage",
         "desc": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
         "pageLink": "Learn More",
         "link": "service"
@@ -10,7 +10,7 @@
     {
         "id": "2",
         "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
-        "title": "UX Design",
+        "title": "Large Format Printing",
         "desc": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
         "pageLink": "Learn More",
         "link": "service"
@@ -18,7 +18,7 @@
     {
         "id": "3",
         "icon": "images/svg/linea/linea-basic-picture.svg",
-        "title": "Strategy",
+        "title": "Vehicle Branding",
         "desc": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
         "pageLink": "Learn More",
         "link": "service"
