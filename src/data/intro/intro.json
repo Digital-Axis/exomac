@@ -22,5 +22,11 @@
         "title": "Construction Services",
         "desc": "In addition to our signage expertise, we offer comprehensive construction services, handling everything from site preparation to project management.",
         "backgroundImage": "/images/hero-image/hero-4.jpg"
+    },
+     {
+        "id": "5",
+        "title": "Graphic Design",
+        "desc": "Whether it’s logo creation, brochures, or other marketing materials, our creative design team brings your ideas to life.",
+        "backgroundImage": "/images/hero-image/hero-5.jpg"
     }
 ]
