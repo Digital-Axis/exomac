@@ -47,7 +47,7 @@ const Footer = () => {
 
                 <div className="row">
                     <div className="col">
-                        <p className="copyright">&copy; {new Date().getFullYear()} <strong>Perfect Signage Marketing Limited</strong>Developed by <a href="#"><strong>Digital Axis Solution Limited</strong></a>.</p>
+                        <p className="copyright">&copy; {new Date().getFullYear()} <strong>Perfect Signage Marketing Limited</strong> Developed by <a href="#"><strong>Digital Axis Solution Limited</strong></a>.</p>
                     </div>
                 </div>
 
