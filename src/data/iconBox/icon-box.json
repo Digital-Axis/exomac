@@ -3,7 +3,7 @@
         "id": "1",
         "icon": "images/svg/linea/linea-basic-target.svg",
         "title": "Custom Signage",
-        "desc": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "desc": "From storefront signs to interior displays, our custom signage services help your brand make an unforgettable impact. We specialize in creating high-quality, durable signs that not only grab attention but also reflect your brand’s unique identity.",
         "pageLink": "Learn More",
         "link": "service"
     },
@@ -11,7 +11,7 @@
         "id": "2",
         "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
         "title": "Large Format Printing",
-        "desc": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "desc": "Transform your vehicles into mobile advertising platforms. We create eye-catching vehicle wraps and decals that ensure your brand is seen wherever you go. Whether you have a single vehicle or an entire fleet, we help you turn traffic into potential customers.",
         "pageLink": "Learn More",
         "link": "service"
     },
@@ -19,7 +19,7 @@
         "id": "3",
         "icon": "images/svg/linea/linea-basic-picture.svg",
         "title": "Vehicle Branding",
-        "desc": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "desc": "Transform your vehicles into mobile advertising platforms. We create eye-catching vehicle wraps and decals that ensure your brand is seen wherever you go. Whether you have a single vehicle or an entire fleet, we help you turn traffic into potential customers.",
         "pageLink": "Learn More",
         "link": "service"
     },
