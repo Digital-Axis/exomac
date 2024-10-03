@@ -34,8 +34,8 @@ const HomeAboutTwo = () => {
                     <div className="col-xl-6 col-lg-6 col-12" data-aos="fade-up">
                         <div className="about-content-area mt-0 mb-md-10 mb-10">
                             <SectionTitleTwo 
-                                subTitle="Web design and digital marketing"
-                                title="We think strategy, UX design, <br /> and web development"
+                                subTitle="Giant of Ads"
+                                title="We think 3D Signage <br /> and Large Format Printing"
                             />
 
                             <div className="row mb-n6">
