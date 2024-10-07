@@ -47,7 +47,7 @@ const ContactInformationThree = () => {
                                 headingOption="title fz-28"
                                 title="Let’s talk about your project"
                                 subTitle="We have made it easy for clients to reach us
-                                    and get their solutions weaved"
+                                    and get their custom solutions"
                             />
 
                             <ProjectForm />
