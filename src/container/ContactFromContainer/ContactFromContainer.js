@@ -11,7 +11,7 @@ const ContactFromContainer = () => {
                         <SectionTitle
                             headingOption="fz-32"
                             title="Let’s talk about your project"
-                            subTitle="We have made it easy for clients to reach us and get their solutions weaved"
+                            subTitle="We have made it easy for clients to reach us and get their solutions custom made"
                         />
                         <ContactFrom />
                     </div>
