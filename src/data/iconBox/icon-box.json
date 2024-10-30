@@ -2,7 +2,7 @@
     {
         "id": "1",
         "icon": "images/svg/linea/linea-basic-target.svg",
-        "title": "Custom Signage",
+        "title": "Custom Signage Solutions",
         "desc": "From storefront signs to interior displays, our custom signage services help your brand make an unforgettable impact. We specialize in creating high-quality, durable signs that not only grab attention but also reflect your brand’s unique identity.",
         "pageLink": "Learn More",
         "link": "service"
@@ -10,7 +10,7 @@
     {
         "id": "2",
         "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
-        "title": "Large Format Printing",
+        "title": "Digital Signage",
         "desc": "Create high-quality, large-format prints for banners, posters, and more, ideal for events, trade shows, outdoor advertising, and construction sites. Our durable, weather-resistant prints ensure your message is seen in any condition.",
         "pageLink": "Learn More",
         "link": "service"
@@ -18,7 +18,7 @@
     {
         "id": "3",
         "icon": "images/svg/linea/linea-basic-picture.svg",
-        "title": "Vehicle Branding",
+        "title": "Branding and Marketing Strategies",
         "desc": "Transform your vehicles into mobile advertising platforms. We create eye-catching vehicle wraps and decals that ensure your brand is seen wherever you go. Whether you have a single vehicle or an entire fleet, we help you turn traffic into potential customers.",
         "pageLink": "Learn More",
         "link": "service"
@@ -26,7 +26,7 @@
     {
         "id": "4",
         "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
-        "title": "Ecommerce",
+        "title": "Installation and Maintenance",
         "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
         "pageLink": "Learn More",
         "link": "service"
@@ -34,7 +34,7 @@
     {
         "id": "5",
         "icon": "images/svg/linea/linea-basic-gear.svg",
-        "title": "Development",
+        "title": "Event Signage",
         "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
         "pageLink": "Learn More",
         "link": "service"
@@ -42,7 +42,7 @@
     {
         "id": "6",
         "icon": "images/svg/linea/linea-basic-display.svg",
-        "title": "Marketing",
+        "title": "Consultation Services",
         "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
         "pageLink": "Learn More",
         "link": "service"
