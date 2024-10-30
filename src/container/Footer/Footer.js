@@ -22,11 +22,11 @@ const Footer = () => {
 
                                     <p><Link to={process.env.PUBLIC_URL + "/"}>(+260) 970-431-012</Link></p>
                                     <p><Link to={process.env.PUBLIC_URL + "/"}>(+260) 211-410-029</Link></p>
-                                    <p><Link to={process.env.PUBLIC_URL + "/"}>info@perfectsignage.com</Link> </p>
+                                    <p><Link to={process.env.PUBLIC_URL + "/"}>enquiries@perfectsignage.org</Link> </p>
                                 </div>
                                 <div className="footer-social-inline">
                                     <a href="#"><i className="fab fa-twitter-square"></i></a>
-                                    <a href="#"><i className="fab fa-facebook-square"></i></a>
+                                    <a href="https://www.facebook.com/Perfectsignagemarketingltd"><i className="fab fa-facebook-square"></i></a>
                                     <a href="#"><i className="fab fa-instagram"></i></a>
                                 </div>
                             </div>
