@@ -3,7 +3,7 @@
         "id": "1",
         "icon": "images/svg/linea/linea-basic-target.svg",
         "title": "Custom Signage Solutions",
-        "desc": "From storefront signs to interior displays, our custom signage services help your brand make an unforgettable impact. We specialize in creating high-quality, durable signs that not only grab attention but also reflect your brand’s unique identity.",
+        "desc": "Tailored signage options, including indoor and outdoor signs, banners, and vehicle graphics that reflect your brand’s identity.",
         "pageLink": "Learn More",
         "link": "service"
     },
@@ -27,7 +27,7 @@
         "id": "4",
         "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
         "title": "Installation and Maintenance",
-        "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
+        "desc": "Professional installation and ongoing maintenance services to ensure your signage remains in top con￾dition and continues to deliver impact.",
         "pageLink": "Learn More",
         "link": "service"
     },
@@ -35,7 +35,7 @@
         "id": "5",
         "icon": "images/svg/linea/linea-basic-gear.svg",
         "title": "Event Signage",
-        "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
+        "desc": "Specialized signage for events, trade shows,and exhibitions to enhance visibility and create memorable experiences for attendees.",
         "pageLink": "Learn More",
         "link": "service"
     },
@@ -43,7 +43,7 @@
         "id": "6",
         "icon": "images/svg/linea/linea-basic-display.svg",
         "title": "Consultation Services",
-        "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
+        "desc": "Expert consultations to help you identify the best signage solutions and marketing strategies tailored to your specific goals.",
         "pageLink": "Learn More",
         "link": "service"
     }
