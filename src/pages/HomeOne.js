@@ -11,7 +11,8 @@ import Newsletter from '../container/Newsletter/Newsletter';
 import ContactInformation from '../container/ContactInformation/ContactInformation';
 import Footer from '../container/Footer/Footer';
 import ScrollToTop from '../components/ScrollToTop.jsx';
-import BrandContainer from '../container/Brand/BrandContainer'
+import BrandContainer from '../container/Brand/BrandContainer';
+import Video from '../container/Video/Video';
 
 
 
@@ -25,7 +26,7 @@ const HomeOne = () => {
             <ServiceIconBox classOption="bg-color-1" />
             <HomeSuccess />
             <Portfolio />
-           
+            <Video />
             <BrandContainer classOption="section-padding-bottom" />
             <ContactInformation />
             <Footer />
