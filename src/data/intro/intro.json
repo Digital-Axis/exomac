@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "title": "Custom Signage Solutions",
+        "title": "3D Custom Signage Solutions",
         "desc": "From storefront signs to interior displays, our custom signage services help your brand make an unforgettable impact.",
         "backgroundImage": "/images/hero-image/hero-2.jpg"
     },
@@ -13,7 +13,7 @@
     },
     {
         "id": "3",
-        "title": "Banners & Large Format Printing",
+        "title": "OutDoor Branding",
         "desc": "Create high-quality, large-format prints for banners, posters, and more, perfect for events, trade shows, or advertising.",
         "backgroundImage": "/images/hero-image/hero-1.jpg"
     },
@@ -25,7 +25,7 @@
     },
      {
         "id": "5",
-        "title": "Graphic Design",
+        "title": "Corporate Gifts",
         "desc": "Whether it’s logo creation, brochures, or other marketing materials, our creative design team brings your ideas to life.",
         "backgroundImage": "/images/hero-image/hero-5.jpg"
     }
