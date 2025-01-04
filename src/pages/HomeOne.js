@@ -25,7 +25,7 @@ const HomeOne = () => {
             <ServiceIconBox classOption="bg-color-1" />
             <HomeSuccess />
             <Portfolio />
-            <HomeBlog />
+           
             <BrandContainer classOption="section-padding-bottom" />
             <ContactInformation />
             <Footer />
