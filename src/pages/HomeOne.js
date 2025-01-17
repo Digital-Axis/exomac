@@ -27,8 +27,9 @@ const HomeOne = () => {
             <HomeSuccess />
             <Portfolio />
             <Video />
-            <BrandContainer classOption="section-padding-bottom" />
+            
             <ContactInformation />
+            <BrandContainer classOption="section-padding-bottom" />
             <Footer />
             <ScrollToTop />
         </React.Fragment>
