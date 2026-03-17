@@ -62,7 +62,7 @@ const Header = () => {
                             </div>
 
                             <div className="col-xl-2 col d-none d-sm-flex justify-content-end order-1 order-xl-2">
-                                <Btn name='Book a Consultation' />
+                                <Btn name='Consultation' />
                             </div>
                         </div>
                     </div>
