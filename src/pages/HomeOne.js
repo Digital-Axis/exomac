@@ -11,7 +11,7 @@ import IntroSlider from '../container/IntroSlider/IntroSlider';
 //import ContactInformation from '../container/ContactInformation/ContactInformation';
 import Footer from '../container/Footer/Footer';
 import ScrollToTop from '../components/ScrollToTop.jsx';
-import BrandContainer from '../container/Brand/BrandContainer';
+//import BrandContainer from '../container/Brand/BrandContainer';
 import Video from '../container/Video/Video';
 
 
