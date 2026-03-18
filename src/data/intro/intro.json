@@ -13,19 +13,25 @@
     },
     {
         "id": "3",
-        "title": "OutDoor Branding",
+        "title": "Expo Branding",
         "desc": "Create high-quality, large-format prints for banners, posters, and more, perfect for events, trade shows, or advertising.",
         "backgroundImage": "/images/hero-image/hero-1.jpg"
     },
      {
         "id": "4",
-        "title": "Construction Services",
+        "title": "Construction Branded Services",
         "desc": "In addition to our signage expertise, we offer comprehensive construction services, handling everything from site preparation to project management.",
         "backgroundImage": "/images/hero-image/hero-4.jpg"
     },
      {
         "id": "5",
-        "title": "Corporate Gifts",
+        "title": "2D Signage and Branding ",
+        "desc": "Whether it’s logo creation, brochures, or other marketing materials, our creative design team brings your ideas to life.",
+        "backgroundImage": "/images/hero-image/hero-5.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Custom Apparel Branding ",
         "desc": "Whether it’s logo creation, brochures, or other marketing materials, our creative design team brings your ideas to life.",
         "backgroundImage": "/images/hero-image/hero-5.jpg"
     }
