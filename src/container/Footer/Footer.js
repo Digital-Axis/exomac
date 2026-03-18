@@ -26,8 +26,8 @@ const Footer = () => {
                                 </div>
                                 <div className="footer-social-inline"> 
         
-                                    <a href="https://www.linkedin.com/company/perfect-signage-marketing/"><i className="fab linkedin"></i></a>
-                                    <a href="https://wa.me/+260970431012"><i className="fab square-whatsapp"></i></a>
+                                    <a href="https://www.linkedin.com/company/perfect-signage-marketing/"><i className="fab fa-linkedin"></i></a>
+                                    <a href="https://wa.me/+260970431012"><i className="fab fa-square-whatsapp"></i></a>
                                     <a href="https://www.facebook.com/Perfectsignagemarketingltd"><i className="fab fa-facebook-square"></i></a>
                                     <a href="https://www.instagram.com/perfectsignagemarketing/"><i className="fab fa-instagram"></i></a>
                                 </div>
