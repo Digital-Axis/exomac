@@ -25,9 +25,11 @@ const Footer = () => {
                                     <p><Link to={process.env.PUBLIC_URL + "/"}>enquiries@perfectsignage.org</Link> </p>
                                 </div>
                                 <div className="footer-social-inline">
-                                    <a href="#"><i className="fab fa-twitter-square"></i></a>
+                            
+                                    <a href="https://www.linkedin.com/company/perfect-signage-marketing/"><i className="fab fa-linkedin-square"></i></a>
+                                    <a href="https://wa.me/+260970431012"><i className="fab fa-square-whatsapp"></i></a>
                                     <a href="https://www.facebook.com/Perfectsignagemarketingltd"><i className="fab fa-facebook-square"></i></a>
-                                    <a href="#"><i className="fab fa-instagram"></i></a>
+                                    <a href="https://www.instagram.com/perfectsignagemarketing/"><i className="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
