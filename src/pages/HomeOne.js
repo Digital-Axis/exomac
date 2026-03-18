@@ -8,7 +8,7 @@ import IntroSlider from '../container/IntroSlider/IntroSlider';
 //import Portfolio from '../container/Portfolio/Portfolio';
 //import HomeBlog from '../container/BlogGrid/HomeBlog';
 //import Newsletter from '../container/Newsletter/Newsletter';
-import ContactInformation from '../container/ContactInformation/ContactInformation';
+//import ContactInformation from '../container/ContactInformation/ContactInformation';
 import Footer from '../container/Footer/Footer';
 import ScrollToTop from '../components/ScrollToTop.jsx';
 import BrandContainer from '../container/Brand/BrandContainer';
@@ -22,12 +22,12 @@ const HomeOne = () => {
             <SEO title="Perfect Signage Marketing Ltd" />
             <Header />
             <IntroSlider />
-            <ContactInformation />
+           
             
             <Video />
             
            
-            <BrandContainer classOption="section-padding-bottom" />
+            
             <Footer />
             <ScrollToTop />
         </React.Fragment>
