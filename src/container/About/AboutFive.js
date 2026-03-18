@@ -51,7 +51,13 @@ const AboutFive = () => {
                                 title="We’ve worked alongside plenty of brands &amp; startups"
                             />
 
-                            <p>Our team of designers and developers are perfectionists who love what they do – we thrive off pushing the boundaries of our clients’ expectations and our own capabilities.</p>
+                            <p>. With over 7 years of industry experience, we are a dynamic and reliable branding company committed to delivering high-quality, tailor-made solutions. Our team of more than 33 skilled professionals is the backbone of our success, with a strong commitment to diversity—over 20% of our workforce is made up of women, contributing to a balanced and inclusive working environment.
+
+We specialize in a wide range of services including branding, printing, corporate gifts, ATM branding, signage, filling station branding, and garment wear. Our expertise allows us to serve clients across various industries with precision, creativity, and consistency.
+
+At the core of our business is our niche: providing customized solutions with quick turnaround times. We understand the importance of efficiency without compromising on quality, ensuring that our clients receive exceptional results, on time, every time.
+
+Driven by innovation and a passion for excellence, we aim to build long-lasting partnerships by delivering value and exceeding expectations.  </p>
 
                             <Link className="btn btn-primary btn-hover-secondary mt-xl-12 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/"}>Get Started</Link>
                         </div>
