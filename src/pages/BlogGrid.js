@@ -14,7 +14,7 @@ const BlogGrid = () => {
             <SEO title="psml || Blog" />
             <Header />
             <Breadcrumb 
-                image="images/bg/breadcrumb-bg-four.jpg"
+                image="images/bg/breadcrumb-bg-five.jpg"
                 title="We take pride in the work we deliver. Our portfolio showcases a variety of projects completed for businesses, organizations, and individuals across Lusaka."
                 content="Home"
                 contentTwo="Blog"
