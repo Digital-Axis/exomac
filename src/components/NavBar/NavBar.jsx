@@ -18,14 +18,7 @@ const NavBar = () => {
                     <NavLink to={process.env.PUBLIC_URL + "/work"}><span className="menu-text">Work</span></NavLink>
                    
                 </li>
-                <li>
-                 <NavLink to={process.env.PUBLIC_URL + ""}><span className="menu-text">CSR</span></NavLink>
-                   
-                </li>
-                <li>
-                 <NavLink to={process.env.PUBLIC_URL + ""}><span className="menu-text">After Sale</span></NavLink>
-                   
-                </li>
+              
                 <li>
                     <NavLink to={process.env.PUBLIC_URL + "/blog-grid"}><span className="menu-text">Portfolio</span></NavLink>
                     
