@@ -3,28 +3,28 @@
         "id": 1,
         "image": "images/testimonial/90/author-1.png",
         "desc": "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
-        "name": "Thomas Smith",
+        "name": "COCA COLA",
         "position": "CEO at Flow"
     },
     {
         "id": 2,
         "image": "images/testimonial/90/author-2.png",
         "desc": "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
-        "name": "Eloise Smith",
+        "name": "Zanaco",
         "position": "CEO at Flow"
     },
     {
         "id": 3,
         "image": "images/testimonial/90/author-3.png",
         "desc": "I love their flexibility. Even when my request is too complicated to handle. they could still suggest something useful for me.",
-        "name": "Florence Themes",
+        "name": "Indo Zambia Bank",
         "position": "/ Multimedia Admin"
     },
     {
         "id": 1,
         "image": "images/testimonial/90/author-1.png",
         "desc": "I love their flexibility. Even when my request is too complicated to handle. they could still suggest something useful for me.",
-        "name": "Florence Themes",
+        "name": "MTN",
         "position": "/ Multimedia Admin"
     }
 ]
