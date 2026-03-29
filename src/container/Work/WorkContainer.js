@@ -10,7 +10,7 @@ const WorkContainer = () => {
 
                 <SectionTitle
                     headingOption="title fz-32"
-                    title="Crafting effective digital marketing, web development, <br> video content and communication design"
+                    title="Crafting effective 3D Signage, Branding, <br> Large Format Printing and Construction Branded Services"
                 />
 
                 <div className="row row-cols-lg-3 row-cols-md-2 row-cols-1 mb-n6">
