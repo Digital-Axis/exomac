@@ -29,7 +29,7 @@ const TestimonialContainer = ({ classOption }) => {
             <div className="container-fluid ps-xl-16 ps-lg-3 ps-md-3 ps-sm-3 ps-3 pe-xl-16 pe-lg-3 pe-md-3 pe-sm-3 pe-3">
                 <SectionTitle
                     headingOption="title fz-28"
-                    title="What our customers are saying about our services"
+                    title="What our customers are saying about our Printing and Branding Services"
                     subTitle="Get your company heading in the right direction with our digital
                         marketing strategist"
                 />
