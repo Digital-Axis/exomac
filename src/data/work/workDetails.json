@@ -3,9 +3,9 @@
         "id": 1,
         "homeImage": "./images/portfolio/portfolio-1.jpg",
         "image": "images/project/project-1.jpg",
-        "title": "HasThemes Development: An outstanding payment app",
-        "date": "28 Sep 2007",
-        "client": "HighGrove Partners",
+        "title": "Construction Branded Services ",
+        "date": "28 Sep 2023",
+        "client": "Oasis",
         "categories": ["app", "development"],
         "awards": ["2015 Digital World Awards 2016 Finale Awards"],
         "excerpt": "Quickly analyzing the digital business landscape, we create effective action plans and design optimal strategies.",
@@ -16,7 +16,7 @@
         },
         "largeImage": "images/project/work-details-1.jpg",
         "subContent": {
-            "title": "Digital Marketing.",
+            "title": "Construction and Branding.",
             "text": "Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. A seasoned inbound marketer might say inbound marketing and digital marketing are virtually the same thing, but there are some minor differences. And conversations with marketers and business owners in the U.S., U.K., Asia, Australia, and New Zealand, I've learned a lot about how those small differences are being observed across the world."
         },
         "gallery": {
