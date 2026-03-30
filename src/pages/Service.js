@@ -10,7 +10,7 @@ import ContactInformationThree from '../container/ContactInformation/ContactInfo
 import Footer from '../container/Footer/Footer';
 import ScrollToTop from '../components/ScrollToTop.jsx';
 import Video from '../container/Video/Video1';
-
+import Videos from '../container/Video/Video2';
 
 const Service = () => {
     return (
@@ -24,6 +24,7 @@ const Service = () => {
                 contentTwo="Services"
             />
             <ServiceIconBoxTwo />
+            <Videos />
             <ServiceSkill />
             <Video />
             <FunfactTwo />
