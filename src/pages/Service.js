@@ -9,6 +9,7 @@ import FunfactTwo from '../container/Funfact/FunfactTwo';
 import ContactInformationThree from '../container/ContactInformation/ContactInformationThree';
 import Footer from '../container/Footer/Footer';
 import ScrollToTop from '../components/ScrollToTop.jsx';
+import Video from '../container/Video/Video';
 
 
 const Service = () => {
