@@ -41,7 +41,7 @@ const HomeAbout = () => {
                         
                             <div className="about-image">
                                 <Tilt scale={scale} transitionSpeed={4000}>
-                                    <img src={process.env.PUBLIC_URL + "images/about/home-one-about/home_agency_about_2.jpg"} alt="" />
+                                    <img src={process.env.PUBLIC_URL + "images/about/about-1.jpg"} alt="" />
                                 </Tilt>
                             </div>
                             <div className="shape shape-1" id="scene" ref={sceneEl}>
