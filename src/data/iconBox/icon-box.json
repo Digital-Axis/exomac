@@ -2,7 +2,7 @@
     {
         "id": "1",
         "icon": "images/svg/linea/linea-basic-target.svg",
-        "title": "Custom Signage Solutions",
+        "title": "3D Custom Signage Solutions",
         "desc": "Tailored signage options, including indoor and outdoor signs, banners, and vehicle graphics that reflect your brand’s identity.",
         "pageLink": "Learn More",
         "link": "service"
@@ -10,7 +10,7 @@
     {
         "id": "2",
         "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
-        "title": "Digital Signage",
+        "title": "2D Signage and Branding",
         "desc": "Create high-quality, large-format prints for banners, posters, and more, ideal for events, trade shows, outdoor advertising, and construction sites. Our durable, weather-resistant prints ensure your message is seen in any condition.",
         "pageLink": "Learn More",
         "link": "service"
@@ -18,7 +18,7 @@
     {
         "id": "3",
         "icon": "images/svg/linea/linea-basic-picture.svg",
-        "title": "Branding and Marketing Strategies",
+        "title": "Vehicle Branding and Marketing Strategies",
         "desc": "Transform your vehicles into mobile advertising platforms. We create eye-catching vehicle wraps and decals that ensure your brand is seen wherever you go. Whether you have a single vehicle or an entire fleet, we help you turn traffic into potential customers.",
         "pageLink": "Learn More",
         "link": "service"
@@ -26,7 +26,7 @@
     {
         "id": "4",
         "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
-        "title": "Installation and Maintenance",
+        "title": "Billboard, Safety and Directional Signage",
         "desc": "Professional installation and ongoing maintenance services to ensure your signage remains in top con￾dition and continues to deliver impact.",
         "pageLink": "Learn More",
         "link": "service"
@@ -34,7 +34,7 @@
     {
         "id": "5",
         "icon": "images/svg/linea/linea-basic-gear.svg",
-        "title": "Event Signage",
+        "title": "Expo and Exibition Branding",
         "desc": "Specialized signage for events, trade shows,and exhibitions to enhance visibility and create memorable experiences for attendees.",
         "pageLink": "Learn More",
         "link": "service"
@@ -42,8 +42,8 @@
     {
         "id": "6",
         "icon": "images/svg/linea/linea-basic-display.svg",
-        "title": "Consultation Services",
-        "desc": "Expert consultations to help you identify the best signage solutions and marketing strategies tailored to your specific goals.",
+        "title": "Construction Branded Services",
+        "desc": "In addition to our signage expertise, we offer comprehensive construction services, handling everything from site preparation to project management.",
         "pageLink": "Learn More",
         "link": "service"
     }
