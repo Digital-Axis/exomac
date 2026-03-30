@@ -26,7 +26,7 @@ const Video = () => {
                 </div>
                 <SectionTitle
                     titleOption="color-light text-center"
-                    title="“Innovating Today, Shaping Tomorrow since 2010"
+                    title="“The Best Quality Large Format Printing !!!"
                 />
 
                 <button className="play-btn icon video-popup" onClick={()=> setOpen(true)}><i className="fas fa-play"></i></button>
