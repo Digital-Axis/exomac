@@ -2,7 +2,7 @@ import React from 'react';
 import SEO from '../components/SEO';
 import Header from "../partials/header/Header";
 import IntroSlider from '../container/IntroSlider/IntroSlider';
-//import HomeAbout from '../components/About/HomeAbout.jsx';
+import HomeAbout from '../components/About/HomeAbout.jsx';
 //import ServiceIconBox from '../container/service/ServiceIconBox';
 //import HomeSuccess from '../components/Success/HomeSuccess';
 //import Portfolio from '../container/Portfolio/Portfolio';
@@ -22,7 +22,7 @@ const HomeOne = () => {
             <SEO title="Perfect Signage Marketing Ltd" />
             <Header />
             <IntroSlider />
-           
+            <HomeAbout/>
             
             <Video />
             
