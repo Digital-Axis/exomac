@@ -2,7 +2,7 @@
     {
         "id": "1",
         "title": "3D Custom Signage Solutions",
-        "desc": "From storefront signs to interior displays, our custom signage services help your brand make an unforgettable impact.",
+        "desc": "From storefront signs to interior displays, our custom 3D signage services help your brand make an unforgettable impact.",
         "backgroundImage": "/images/hero-image/hero-2.jpg"
     },
     {
@@ -14,7 +14,7 @@
     {
         "id": "3",
         "title": "Expo Branding",
-        "desc": "Create high-quality, large-format prints for banners, posters, and more, perfect for events, trade shows, or advertising.",
+        "desc": "We provide complete expo and exhibition branding solutions designed to make your brand visible, professional, and memorable at events, trade shows, and exhibitions.",
         "backgroundImage": "/images/hero-image/hero-8.jpg"
     },
      {
@@ -26,20 +26,20 @@
      {
         "id": "5",
         "title": "2D Signage and Branding ",
-        "desc": "Whether it’s logo creation, brochures, or other marketing materials, our creative design team brings your ideas to life.",
+        "desc": "Transform your office space with professional indoor 2D branding and signage designed to enhance visibility and style.",
         "backgroundImage": "/images/hero-image/hero-5.jpg"
     },
     {
         "id": "6",
         "title": "CSR & After Sell Services ",
-        "desc": "Whether it’s logo creation, brochures, or other marketing materials, our creative design team brings your ideas to life.",
+        "desc": "We believe business growth should go hand in hand with community development. We are committed to making a positive impact in Lusaka and beyond through responsible and sustainable business practices.",
         "backgroundImage": "/images/hero-image/hero-6.jpg"
     },
 
     {
         "id": "7",
         "title": "Custom Apparel Branding ",
-        "desc": "Whether it’s logo creation, brochures, or other marketing materials, our creative design team brings your ideas to life.",
+        "desc": "we help businesses, teams, and organizations showcase their identity through high-quality custom apparel branding. From staff uniforms to promotional merchandise, our solutions turn clothing into powerful marketing tools.",
         "backgroundImage": "/images/hero-image/hero-7.jpg"
     }
 ]
