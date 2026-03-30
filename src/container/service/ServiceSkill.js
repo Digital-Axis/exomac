@@ -34,28 +34,28 @@ const ServiceSkill = () => {
 
                             <div className="progress-bar--one">
                                 <div className="progress-charts">
-                                    <h6 className="heading ">UX Design</h6>
+                                    <h6 className="heading ">3D Signage</h6>
                                     <div className="single-progress">
                                         <ProgressBar data-aos="fade-right" data-aos-delay="100" data-aos-duration="450" className="gradient-1" now="81" label={<span>81%</span>} />
                                     </div>
                                 </div>
 
                                 <div className="progress-charts ">
-                                    <h6 className="heading ">Marketing</h6>
+                                    <h6 className="heading ">Large Format Printing</h6>
                                     <div className="single-progress">
                                         <ProgressBar data-aos="fade-right" data-aos-delay="100" data-aos-duration="450" className="gradient-2" now="72" label={<span>72%</span>} />
                                     </div>
                                 </div>
 
                                 <div className="progress-charts ">
-                                    <h6 className="heading ">Web Design</h6>
+                                    <h6 className="heading ">Construction Services</h6>
                                     <div className="single-progress">
                                         <ProgressBar data-aos="fade-right" data-aos-delay="100" data-aos-duration="450" className="gradient-3" now="81" label={<span>81%</span>} />
                                     </div>
                                 </div>
 
                                 <div className="progress-charts ">
-                                    <h6 className="heading ">Development</h6>
+                                    <h6 className="heading ">Billboard Signage</h6>
                                     <div className="single-progress">
                                         <ProgressBar data-aos="fade-right" data-aos-delay="100" data-aos-duration="450" className="gradient-4" now="81" label={<span>81%</span>} />
                                     </div>
